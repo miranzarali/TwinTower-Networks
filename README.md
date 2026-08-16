@@ -132,7 +132,15 @@ Example successful connectivity test:
 ### Connectivity Test
 
 ![Connectivity Test](./03-connectivity-test.png)
+## Technical Evidence
 
+Additional verification screenshots:
+
+- `04-hsrp-status.png` — HSRP active/standby state
+- `05-ospf-neighbors.png` — OSPF neighbor adjacency
+- `06-routing-table.png` — Routing table and learned routes
+- `07-trunk-status.png` — 802.1Q trunk and allowed VLANs
+- `08-dhcp-client.png` — DHCP-assigned client configuration
 ## Project Files
 
 | File | Description |
