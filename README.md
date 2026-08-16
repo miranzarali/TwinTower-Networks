@@ -136,11 +136,11 @@ Example successful connectivity test:
 
 Additional verification screenshots:
 
-- `04-hsrp-status.png` — HSRP active/standby state
-- `05-ospf-neighbors.png` — OSPF neighbor adjacency
-- `06-routing-table.png` — Routing table and learned routes
-- `07-trunk-status.png` — 802.1Q trunk and allowed VLANs
-- `08-dhcp-client.png` — DHCP-assigned client configuration
+- [04-hsrp-status.png](04-hsrp-status.png) — HSRP active/standby state
+- [05-ospf-neighbors.png](05-ospf-neighbors.png) — OSPF neighbor adjacency
+- [06-routing-table.png](06-routing-table.png) — Routing table and learned routes
+- [07-trunk-status.png](07-trunk-status.png) — 802.1Q trunk and allowed VLANs
+- [08-dhcp-client.png](08-dhcp-client.png) — DHCP-assigned client configuration
 ## Project Files
 
 | File | Description |
