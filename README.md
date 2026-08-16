@@ -145,11 +145,16 @@ Additional verification screenshots:
 
 | File | Description |
 |---|---|
-| [`TwinTower-Networks.pkt`](./TwinTower-Networks.pkt) | Complete Cisco Packet Tracer project |
-| [`COMMANDS.md`](./COMMANDS.md) | Configuration and verification commands |
-| [`01-topology.png`](./01-topology.png) | Final enterprise network topology |
-| [`02-web-portal.png`](./02-web-portal.png) | Internal DNS/HTTP web portal |
-| [`03-connectivity-test.png`](./03-connectivity-test.png) | End-to-end connectivity evidence |
+| [`TwinTower-Networks.pkt`](./TwinTower-Networks.pkt) | Complete Cisco Packet Tracer enterprise network project |
+| [`COMMANDS.md`](./COMMANDS.md) | Configuration, implementation, and verification commands |
+| [`01-topology.png`](./01-topology.png) | Final two-building enterprise network topology |
+| [`02-web-portal.png`](./02-web-portal.png) | Internal DNS and HTTP web portal |
+| [`03-connectivity-test.png`](./03-connectivity-test.png) | Successful end-to-end connectivity test |
+| [`04-hsrp-status.png`](./04-hsrp-status.png) | HSRP active/standby state and gateway redundancy |
+| [`05-ospf-neighbors.png`](./05-ospf-neighbors.png) | OSPF neighbor adjacency verification |
+| [`06-routing-table.png`](./06-routing-table.png) | Routing table and OSPF-learned routes |
+| [`07-trunk-status.png`](./07-trunk-status.png) | 802.1Q trunk status and allowed VLANs |
+| [`08-dhcp-client.png`](./08-dhcp-client.png) | DHCP-assigned client network configuration |
 
 ## Technologies
 
